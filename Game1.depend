@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1745825304 source:c:\game1\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"graphics.h"
+
+1745560722 c:\game1\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1745898680 c:\game1\defs.h
+
+1745901791 source:c:\game1\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1745854942 source:c:\game1\logic.cpp
+
+1745291400 c:\game1\game.h
+
+1745291400 source:c:\game1\game.cpp
+
+1745293609 source:c:\game1\character.cpp
+	"Character.h"
+	<SDL_image.h>
+	<iostream>
+
+1745293609 c:\game1\character.h
+	<SDL.h>
+	<iostream>
+
