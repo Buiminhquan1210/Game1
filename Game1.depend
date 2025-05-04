@@ -12,9 +12,9 @@
 	"defs.h"
 	<vector>
 
-1745898680 c:\game1\defs.h
+1746269404 c:\game1\defs.h
 
-1745901791 source:c:\game1\main.cpp
+1746283268 source:c:\game1\main.cpp
 	<iostream>
 	<vector>
 	<SDL.h>

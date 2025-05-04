@@ -22,7 +22,7 @@ const int SCREEN_HEIGHT = 1024;
 #define ENEMY_BULLET_IMG      "enemy_bullet.png"
 #define ENEMY_IMG             "enemychinh.png"
 #define ENEMY_RUN_IMG         "enemy_run.jpg"
-
+#define BULLET_BOX_IMG        "bulletbox.png"
 
 const int NPC_CLIPS[][4] =
 {
